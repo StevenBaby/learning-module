@@ -4,6 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "/usr/lib/modules/5.12.9-arch1-1/build/arch/x86/include",
+                "/usr/lib/modules/5.12.9-arch1-1/build/arch/x86/include/generated",
                 "/usr/lib/modules/5.12.9-arch1-1/build/include",
                 "${workspaceFolder}/**"
             ],
