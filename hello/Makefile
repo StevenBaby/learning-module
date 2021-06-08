@@ -25,3 +25,7 @@ uninstall:
 .PHONY: clean
 clean:
 	$(MAKE) -C $(KDIR) M=$(PWD) clean
+
+.PHONY: log
+log:
+	journalctl -p err -kq --no-pager -n 10
