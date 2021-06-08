@@ -1,5 +1,7 @@
 # 试验 Linux 驱动程序
 
+[试验 Linux 驱动程序 (本文件地址)](https://github.com/StevenBaby/learning-module)
+
 ## hello world
 
 对于 Archlinux，下面说一下开发环境的配置。
