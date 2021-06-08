@@ -75,3 +75,8 @@ clean:
 
 编译时需要 root 账号，sudo 都不行，不知道为啥！！！
 
+输出的内容默认时看不到的，需要使用 `journalctl` 来查看
+
+```sh
+journalctl -kr
+```

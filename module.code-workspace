@@ -1,8 +1,12 @@
 {
-	"folders": [{
-		"path": "."
-	}
-],
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/usr/lib/modules/5.12.9-arch1-1/build"
+		}
+	],
 "settings": {
 	"files.associations": {
 		"init.h": "c",
