@@ -4,5 +4,16 @@
 	}
 ],
 "settings": {
+	"files.associations": {
+		"init.h": "c",
+		"compiler.h": "c",
+		"compiler_types.h": "c",
+		"module.h": "c",
+		"types.h": "c",
+		"list.h": "c",
+		"kernel.h": "c",
+		"bitops.h": "c",
+		"barrier.h": "c"
+	}
 },
 }
