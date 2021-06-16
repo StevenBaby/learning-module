@@ -17,7 +17,8 @@
 		"list.h": "c",
 		"kernel.h": "c",
 		"bitops.h": "c",
-		"barrier.h": "c"
+		"barrier.h": "c",
+		"fs.h": "c"
 	}
 },
 }
